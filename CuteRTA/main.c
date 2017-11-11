@@ -46,7 +46,7 @@ int main(void)
 		_delay_ms(1000);
 		*/	
 		
-		for(i=0;i<50;i++)
+		for(i=0;i<95;i++)
 		{
 			led[0].r = colors[i][1];
 			led[0].g = colors[i][0];
